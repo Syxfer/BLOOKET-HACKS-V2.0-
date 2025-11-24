@@ -5,7 +5,7 @@
         if (!arguments[1].includes("s.blooket.com/rc"))
             return wfcall.apply(this, arguments);
     }
-    if (console.log("%c Zip´s Blooket Hacks / Cheats %c\n	Modified by Zip-On on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/Zip-On/Blooket-Cheat-GUI-aka-Swaggers-GUI", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c Syxfer's  Blooket Hacks / Cheats %c\n	Modified by Syxfer and Zip's on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/Syxfer/BLOOKET-HACKS-V2.0-/", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var e, t, a, o, r, i, n, s, e = document.createElement("iframe"), t = (document.body.appendChild(e), window.clearId = window.setInterval(() => {}, 0)); t--;)
             e.contentWindow.clearInterval.call(window, t);
         e.remove()
@@ -283,7 +283,7 @@
                 display: "flex",
                 flexDirection: "column"
             },
-            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Zip´s Cheats<sup>v2.1</sup></span>'
+            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Syxfers Blooket Hacks<sup>v2.1.4 !</sup></span>'
         }, l("a", {
             className: "bigButton",
             style: {
@@ -1015,7 +1015,7 @@
                 }), 200);
             }
         }, {
-            name: "Simulate Pack",
+            name: "Simulate Opening Pack",
             description: "Simulates unlocking a pack",
             inputs: [{
                 name: "Pack",
