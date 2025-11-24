@@ -30,13 +30,13 @@ A gaming cheat for the online game [Blooket](https://www.blooket.com/)
   ## How To use -->
 
   ### Step 1 -
-  Copy whole script (<ctr> + A and <ctr> + C)
+  Copy whole script (ctr + A and ctr + C)
 
   ### Step 2 -
   Open [Blooket](blooket.com)
 
   ### Step 3 -
-  Right clcik, --> inspect, --> Console --> <ctr> V --> <Enter>
+  Right clcik, --> inspect, --> Console --> ctr V --> Enter
 
 
   _____________________________________________________________
