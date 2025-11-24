@@ -1,6 +1,10 @@
 # Syxfer's Blooket Hacks !
 ----------------------------
 A gaming cheat for the online game [Blooket](https://www.blooket.com/)
+--
+
+
+
 
 ## Project Credit 
 -----------------
@@ -21,4 +25,28 @@ A gaming cheat for the online game [Blooket](https://www.blooket.com/)
 - simulation hacks
 
   ------------------------------------
+
+
+  ## How To use -->
+
+  ### Step 1 -
+  Copy whole script (<ctr> + A and <ctr> + C)
+
+  ### Step 2 -
+  Open [Blooket](blooket.com)
+
+  ### Step 3 -
+  Right clcik, --> inspect, --> Console --> <ctr> V --> <Enter>
+
+
+  _____________________________________________________________
+
+
+  ## Issues?
+
+  contacts--> 
+  - syxfer.audios@gmail.com
+  - discord --> @Syxfer
+    
+  
 
