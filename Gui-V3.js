@@ -7531,5 +7531,6 @@ if (userInput == pass) {
 })();
 } else {
   console.log("Wrong pass")
+  alert("ERROR - Wrong password - Try again")
 }
 
